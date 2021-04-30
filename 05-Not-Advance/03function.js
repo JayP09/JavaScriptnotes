@@ -4,12 +4,15 @@
 3)functional programming is more of writing style of code so its's majorly independent of programming language.
 4) in functional porgramming we keep our function and data totally separate 
 5) normal function:
+
 let score = 456;
 function addBonus(){
     score = score+45;
     return score;
 }
+
 6) functional programming :
+
 function addBonus(score){
     return score+45;
 }
